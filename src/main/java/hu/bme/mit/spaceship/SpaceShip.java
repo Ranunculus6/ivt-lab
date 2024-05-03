@@ -4,7 +4,7 @@ package hu.bme.mit.spaceship;
 * Defines basic spaceship functionality
 * (collects just the most important ones currently)
 */
-public interface SpaceShip {
+public interface SpaceShip { //Noice
 
   /**
   * Fires the laser or lasers of the ship
